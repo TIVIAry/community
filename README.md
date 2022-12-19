@@ -2,7 +2,7 @@
 
 Keräämme tänne TIVIA ry:n mastodon-palvelimen käyttöön ja moderointiin liittyvät tiedot. 
 
-##Palvelimen säännöt
+## Palvelimen säännöt
 
 TIVIA ry on Suomen johtava tieto- ja viestintätekniikan alan liitto, joka tarjoaa osaamista ja verkostoja digitaalisemman Suomen parhaaksi.
 
