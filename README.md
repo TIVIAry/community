@@ -38,6 +38,6 @@ Tämä on kuvaus palvelimen sisällöstä ja ohjeistus sen käytössäännöist�
 
 Ylläpitoon saa yhteyden [githubin tiketöintijärjestelmän kautta](https://github.com/TIVIAry/community/issues). Maininnat aikajanalla eivät ole pääasiallinen reitti. 
 
-Tämä palvelimen moderointi on tarkastanut yleisen tietosuojaselosteen (privacy policy) ja toimii sen mukaisesti. Palvelimelta ei kerätä tietoja markkinointirekisteriin, mutta palvelimella voidaan jakaa markkinointisisältöjä. 
+Tämän palvelimen moderointi on tarkastanut yleisen tietosuojaselosteen (privacy policy) ja toimii sen mukaisesti. Palvelimelta ei kerätä tietoja markkinointirekisteriin, mutta palvelimella voidaan jakaa markkinointisisältöjä. 
 
 Tämän instanssin tekninen ylläpito on hankittu weingaertner-it.de:ltä. Toistaiseksi ainakin instanssi on pieni, pohdimme kasvua kiinnostuksen mukaan.
