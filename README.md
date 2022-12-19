@@ -36,4 +36,6 @@ Palvelimen käyttäjien seuratessa muilla palvelimilla olevia näemme enemmänki
 
 Tämä on kuvaus palvelimen sisällöstä ja ohjeistus sen käytössäännöistä. Niiden on tarkoitus kertoa, miten tämän palvelimen sisältöä hallinnoidaan. Lopullinen tulkinta säännöistä on aina ylläpitäjillä. Ylläpitäjät voivat tarvittaessa milloin tahansa sulkea yksittäisen käyttäjän tilin, jos hän häiritsee jollain tapaa palvelua tai muita ihmisiä.
 
+Ylläpitoon saa yhteyden githubin tiketöintijärjestelmän kautta. Maininnat aikajanalla eivät ole pääasiallinen reitti. 
+
 Tämän instanssin tekninen ylläpito on hankittu weingaertner-it.de:ltä. Toistaiseksi ainakin instanssi on pieni, pohdimme kasvua kiinnostuksen mukaan. 
